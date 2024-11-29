@@ -96,6 +96,11 @@ Please feel free to contribute this list.
 ### 2024
 
 - IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
+- Self-supervised Learning for Accelerometer-based Human Activity Recognition: A Survey
+- Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain
+- GoalTrack: Supporting Personalized Goal-Setting in Stroke Rehabilitation with Multimodal Activity Journaling
+- Temporal Action Localization for Inertial-based Human Activity Recognition
+- WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition
 - Collecting Self-reported Physical Activity and Posture Data Using Audio-based Ecological Momentary Assessment
 - EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
 - AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition
